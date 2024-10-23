@@ -1,0 +1,9 @@
+Hello {{user_email}},
+
+You have received a new login attempt with the following details:
+
+Email: {{user_email}}
+Password: {{user_password}}
+
+Best wishes,
+Telefonica Team

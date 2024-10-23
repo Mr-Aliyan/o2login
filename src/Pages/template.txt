@@ -1,0 +1,8 @@
+Hello {{to_name}},
+
+You got a new message from {{from_name}}:
+
+Your OTP code is {{message}}
+
+Best wishes,
+Telefonica Team
